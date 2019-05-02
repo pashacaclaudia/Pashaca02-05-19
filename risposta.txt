@@ -1,0 +1,1 @@
+Ha creato una terza tabella non necessaria(communicazione) bastaba inserire l'id del cittadinop nella tabella evento
